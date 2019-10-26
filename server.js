@@ -145,7 +145,8 @@ app.delete('/task/delete/:id', (req, res) => {
   }
 });
 
-app.listen(9001, () => {
+const port = process.env.PORT || 3000
+app.listen(port, () => {
   process.stdout.write('the server is available on http://localhost:9001/\n');
 });
 
