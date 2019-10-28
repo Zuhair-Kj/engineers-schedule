@@ -1,45 +1,42 @@
-{
-    "engineers": [
-    {
-    "id": 0,
-    "name": "Bogdan"
-    },
-    {
+[
+  {
     "id": 1,
-    "name": "Nic"
-    },
-    {
+    "name": "Bogdan"
+  },
+  {
     "id": 2,
-    "name": "Tung"
-    },
-    {
+    "name": "Nic"
+  },
+  {
     "id": 3,
-    "name": "Gautam"
-    },
-    {
+    "name": "Tung"
+  },
+  {
     "id": 4,
-    "name": "Bala"
-    
-    },
-    {
+    "name": "Gautam"
+  },
+  {
     "id": 5,
-    "name": "Nazih"
-    },
-    {
+    "name": "Bala"
+  },
+  {
     "id": 6,
-    "name": "Huteri"
-    },
-    {
+    "name": "Nazih"
+  },
+  {
     "id": 7,
-    "name": "Aldy"
-    },
-    {
+    "name": "Huteri"
+  },
+  {
     "id": 8,
-    "name": "Ankur"
-    },
-    {
+    "name": "Aldy"
+  },
+  {
     "id": 9,
+    "name": "Ankur"
+  },
+  {
+    "id": 10,
     "name": "Chinh"
-    }
-    ]
-    }
+  }
+]
